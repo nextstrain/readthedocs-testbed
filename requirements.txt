@@ -1,2 +1,2 @@
-nextstrain-sphinx-theme
+nextstrain-sphinx-theme @ https://github.com/nextstrain/sphinx-theme/archive/trs/precise-versions.tar.gz
 sphinx
