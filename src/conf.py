@@ -5,7 +5,7 @@ See <https://www.sphinx-doc.org/en/master/usage/configuration.html>.
 """
 
 project = 'Read the Docs testbed'
-version = '20220128'
+version = '20220128.1'
 copyright = '2022, Trevor Bedford and Richard Neher'
 author = 'The Nextstrain Team'
 
