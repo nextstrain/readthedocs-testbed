@@ -10,3 +10,7 @@ copyright = '2022, Trevor Bedford and Richard Neher'
 author = 'The Nextstrain Team'
 
 html_theme = 'nextstrain-sphinx-theme'
+
+extensions = [
+    'nextstrain.sphinx.theme',
+]

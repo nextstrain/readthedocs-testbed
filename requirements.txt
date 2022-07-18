@@ -1,2 +1,2 @@
-nextstrain-sphinx-theme >=2022.1
+nextstrain-sphinx-theme >=2022.5
 sphinx
